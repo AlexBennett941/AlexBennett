@@ -1,2 +1,2 @@
 # AlexBennett
-README
+Hello welcome to my github profile! My goal for this profile will be to build a resume of sorts. I plan to work on coding out of class as well as in, and I will send those files here to add to my resume. It will also be interesting to watch my developement as I continue to improve at programming. I am fairly new to it so I do not have much to add, and not much I am proud of yet. I am extremely excited to continue developing and learning more and more.  
